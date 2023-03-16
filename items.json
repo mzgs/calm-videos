@@ -1,13 +1,56 @@
 [
   {
     "tags": [
+      "SNOW",
+      "FIREPLACE"
+    ],
+    "color": "#9AAD5B",
+    "is_premium": true,
+    "image": "https://github.com/mzgs/calm-videos/raw/main/images/Deep%20Sleep%20with%20Fireplace%20and%20Ocean%20Sounds%204K%20Cozy%20Winter%20Ambience%2C%20Ocean%20and%20Wind%20Sound.jpg",
+    "title": "Deep Sleep with Fireplace and Ocean Sounds 4K Cozy Winter Ambience, Ocean and Wind Sound",
+    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Deep%20Sleep%20with%20Fireplace%20and%20Ocean%20Sounds%204K%20Cozy%20Winter%20Ambience%2C%20Ocean%20and%20Wind%20Sound.mp4"
+  },
+  {
+    "tags": [
       "NATURE"
+    ],
+    "color": "#9AAD5B",
+    "is_premium": true,
+    "image": "https://github.com/mzgs/calm-videos/raw/main/images/water_vertical.jpg",
+    "title": "water_vertical",
+    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/water_vertical.mp4"
+  },
+  {
+    "tags": [
+      "NATURE"
+    ],
+    "color": "#9AAD5B",
+    "is_premium": true,
+    "image": "https://github.com/mzgs/calm-videos/raw/main/images/The%20Most%20Relaxing%20Waves%20Ever%20-%20Ocean%20Sounds%20to%20Sleep%2C%20Study%20and%20Chill.jpg",
+    "title": "The Most Relaxing Waves Ever - Ocean Sounds to Sleep, Study and Chill",
+    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/The%20Most%20Relaxing%20Waves%20Ever%20-%20Ocean%20Sounds%20to%20Sleep%2C%20Study%20and%20Chill.mp4"
+  },
+  {
+    "tags": [
+      "RAIN",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/a%20rainy%20afternoon%20in%20sweden.jpg",
     "title": "a rainy afternoon in sweden",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/a%20rainy%20afternoon%20in%20sweden.mp4"
+  },
+  {
+    "tags": [
+      "NATURE",
+      "NIGHT"
+    ],
+    "color": "#9AAD5B",
+    "is_premium": true,
+    "image": "https://github.com/mzgs/calm-videos/raw/main/images/Relaxing%20Sleep%20Music%20and%20Night%20Nature%20Sounds%20Soft%20Crickets%2C%20Beautiful%20Piano%2C%20Deep%20Sleep%20Music.jpg",
+    "title": "Relaxing Sleep Music and Night Nature Sounds Soft Crickets, Beautiful Piano, Deep Sleep Music",
+    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Relaxing%20Sleep%20Music%20and%20Night%20Nature%20Sounds%20Soft%20Crickets%2C%20Beautiful%20Piano%2C%20Deep%20Sleep%20Music.mp4"
   },
   {
     "tags": [
@@ -41,7 +84,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -51,7 +95,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -61,7 +105,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -71,7 +116,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -81,7 +126,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -101,7 +147,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -111,7 +158,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "SNOW"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -121,7 +169,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -131,17 +180,8 @@
   },
   {
     "tags": [
-      "NATURE"
-    ],
-    "color": "#9AAD5B",
-    "is_premium": true,
-    "image": "https://github.com/mzgs/calm-videos/raw/main/images/Deep%20Sleep%20with%20Fireplace%20and%20Ocean%20Sounds%204K%20Cozy%20Winter%20Ambience%2C%20Ocean%20and%20Wind%20Sound.jpg",
-    "title": "Deep Sleep with Fireplace and Ocean Sounds 4K Cozy Winter Ambience, Ocean and Wind Sound",
-    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Deep%20Sleep%20with%20Fireplace%20and%20Ocean%20Sounds%204K%20Cozy%20Winter%20Ambience%2C%20Ocean%20and%20Wind%20Sound.mp4"
-  },
-  {
-    "tags": [
-      "NATURE"
+      "SNOW",
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -151,7 +191,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -161,7 +202,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -171,7 +212,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -191,7 +232,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -221,7 +262,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "RAIN"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -231,7 +273,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -241,7 +284,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -251,7 +295,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -261,7 +305,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -271,7 +316,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -281,7 +327,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "RAIN"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -291,7 +338,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "RAIN"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -301,7 +348,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -351,23 +398,15 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "RAIN",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/Relaxing%20rain%20at%20night.jpg",
     "title": "Relaxing rain at night",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Relaxing%20rain%20at%20night.mp4"
-  },
-  {
-    "tags": [
-      "NATURE"
-    ],
-    "color": "#9AAD5B",
-    "is_premium": true,
-    "image": "https://github.com/mzgs/calm-videos/raw/main/images/Relaxing%20Sleep%20Music%20and%20Night%20Nature%20Sounds%20Soft%20Crickets%2C%20Beautiful%20Piano%2C%20Deep%20Sleep%20Music.jpg",
-    "title": "Relaxing Sleep Music and Night Nature Sounds Soft Crickets, Beautiful Piano, Deep Sleep Music",
-    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Relaxing%20Sleep%20Music%20and%20Night%20Nature%20Sounds%20Soft%20Crickets%2C%20Beautiful%20Piano%2C%20Deep%20Sleep%20Music.mp4"
   },
   {
     "tags": [
@@ -421,7 +460,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -431,7 +470,9 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "SNOW",
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -441,7 +482,7 @@
   },
   {
     "tags": [
-      "NATURE"
+      "FIREPLACE"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -451,7 +492,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -461,7 +503,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "SNOW"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -471,7 +514,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -481,7 +525,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -491,7 +536,9 @@
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "SNOW",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -501,7 +548,8 @@
   },
   {
     "tags": [
-      "NATURE"
+      "SNOW",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -525,23 +573,14 @@
     ],
     "color": "#9AAD5B",
     "is_premium": true,
-    "image": "https://github.com/mzgs/calm-videos/raw/main/images/The%20Most%20Relaxing%20Waves%20Ever%20-%20Ocean%20Sounds%20to%20Sleep%2C%20Study%20and%20Chill.jpg",
-    "title": "The Most Relaxing Waves Ever - Ocean Sounds to Sleep, Study and Chill",
-    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/The%20Most%20Relaxing%20Waves%20Ever%20-%20Ocean%20Sounds%20to%20Sleep%2C%20Study%20and%20Chill.mp4"
-  },
-  {
-    "tags": [
-      "NATURE"
-    ],
-    "color": "#9AAD5B",
-    "is_premium": true,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/Tropical%20Beach%20at%20Sunset%20-%20Ocean%20Sounds%20For%20Relaxation%20%26%20Holiday%20Feeling.jpg",
     "title": "Tropical Beach at Sunset - Ocean Sounds For Relaxation \u0026 Holiday Feeling",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Tropical%20Beach%20at%20Sunset%20-%20Ocean%20Sounds%20For%20Relaxation%20%26%20Holiday%20Feeling.mp4"
   },
   {
     "tags": [
-      "NATURE"
+      "NATURE",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
@@ -561,17 +600,8 @@
   },
   {
     "tags": [
-      "NATURE"
-    ],
-    "color": "#9AAD5B",
-    "is_premium": true,
-    "image": "https://github.com/mzgs/calm-videos/raw/main/images/water_vertical.jpg",
-    "title": "water_vertical",
-    "video": "https://github.com/mzgs/calm-videos/raw/main/videos/water_vertical.mp4"
-  },
-  {
-    "tags": [
-      "NATURE"
+      "NATURE",
+      "NIGHT"
     ],
     "color": "#9AAD5B",
     "is_premium": true,
