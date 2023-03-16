@@ -5,7 +5,7 @@
       "FIREPLACE"
     ],
     "color": "#9AAD5B",
-    "is_premium": true,
+    "is_premium": false,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/Deep%20Sleep%20with%20Fireplace%20and%20Ocean%20Sounds%204K%20Cozy%20Winter%20Ambience%2C%20Ocean%20and%20Wind%20Sound.jpg",
     "title": "Deep Sleep with Fireplace and Ocean Sounds 4K Cozy Winter Ambience, Ocean and Wind Sound",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Deep%20Sleep%20with%20Fireplace%20and%20Ocean%20Sounds%204K%20Cozy%20Winter%20Ambience%2C%20Ocean%20and%20Wind%20Sound.mp4"
@@ -15,7 +15,7 @@
       "NATURE"
     ],
     "color": "#9AAD5B",
-    "is_premium": true,
+    "is_premium": false,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/water_vertical.jpg",
     "title": "water_vertical",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/water_vertical.mp4"
@@ -25,7 +25,7 @@
       "NATURE"
     ],
     "color": "#9AAD5B",
-    "is_premium": true,
+    "is_premium": false,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/The%20Most%20Relaxing%20Waves%20Ever%20-%20Ocean%20Sounds%20to%20Sleep%2C%20Study%20and%20Chill.jpg",
     "title": "The Most Relaxing Waves Ever - Ocean Sounds to Sleep, Study and Chill",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/The%20Most%20Relaxing%20Waves%20Ever%20-%20Ocean%20Sounds%20to%20Sleep%2C%20Study%20and%20Chill.mp4"
@@ -36,7 +36,7 @@
       "NIGHT"
     ],
     "color": "#9AAD5B",
-    "is_premium": true,
+    "is_premium": false,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/Relaxing%20Sleep%20Music%20and%20Night%20Nature%20Sounds%20Soft%20Crickets%2C%20Beautiful%20Piano%2C%20Deep%20Sleep%20Music.jpg",
     "title": "Relaxing Sleep Music and Night Nature Sounds Soft Crickets, Beautiful Piano, Deep Sleep Music",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/Relaxing%20Sleep%20Music%20and%20Night%20Nature%20Sounds%20Soft%20Crickets%2C%20Beautiful%20Piano%2C%20Deep%20Sleep%20Music.mp4"
@@ -47,7 +47,7 @@
       "NIGHT"
     ],
     "color": "#9AAD5B",
-    "is_premium": true,
+    "is_premium": false,
     "image": "https://github.com/mzgs/calm-videos/raw/main/images/a%20rainy%20afternoon%20in%20sweden.jpg",
     "title": "a rainy afternoon in sweden",
     "video": "https://github.com/mzgs/calm-videos/raw/main/videos/a%20rainy%20afternoon%20in%20sweden.mp4"
