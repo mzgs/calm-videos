@@ -10,6 +10,7 @@ $imageFiles = Get-ChildItem -Path $folderPath   -File
 # Initialize an empty array to store the output lines
 $outputLines = @($imageFiles.Count)
 
+
 # Loop through each image file and detect its dominant color
 foreach ($imageFile in $imageFiles) {
      
